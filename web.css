@@ -1,0 +1,38 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 50px;  
+}
+img{
+    height: 100px;
+    width: 30px;
+
+}
+nav{
+    padding: 10px;
+    text-align: center;
+    color: blue;
+}
+nav a{
+    text-decoration: none;
+    color: blue;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: white;
+    color: goldenrod;
+    border-radius: 20px;
+}
+button{
+    background-color: blue;
+}
+button:hover{
+    background-color: brown;
+}
+    
+    

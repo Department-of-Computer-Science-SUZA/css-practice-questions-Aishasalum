@@ -1,0 +1,25 @@
+h2,p{
+    text-align: center;
+    font-family: cursive;
+    color: blue;
+}
+body{
+    background-color: plum;
+}
+img{
+padding-left: 10%;
+width: 20%;
+height: 20%;
+}
+li,a{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    color:green;
+    text-align: center;
+    font-family: cursive;
+}
+h3{
+    color: rgb(197, 10, 10);
+}
